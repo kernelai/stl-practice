@@ -4,3 +4,4 @@ void print(std::initializer_list<int> vals) {
     std::cout << "value: " << v << "\n";
   }
 }
+
